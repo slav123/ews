@@ -1,7 +1,7 @@
 package ewsutil
 
 import (
-	"github.com/iubiltekin/ews"
+	"github.com/slav123/ews"
 	"time"
 )
 

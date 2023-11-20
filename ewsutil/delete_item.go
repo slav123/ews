@@ -1,7 +1,7 @@
 package ewsutil
 
 import (
-	"github.com/iubiltekin/ews"
+	"github.com/slav123/ews"
 )
 
 func DeleteEmail(c ews.Client, itemId ews.ItemId, deleteType string) (bool, error) {

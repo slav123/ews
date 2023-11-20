@@ -1,7 +1,7 @@
 package ewsutil
 
 import (
-	"github.com/iubiltekin/ews"
+	"github.com/slav123/ews"
 )
 
 func GetEmail(c ews.Client, itemId ews.ItemId, includeMimeContent ews.BooleanType) (*ews.ItemMessage, error) {

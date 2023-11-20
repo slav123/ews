@@ -7,8 +7,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/iubiltekin/ews"
-	"github.com/iubiltekin/ews/ewsutil"
+	"github.com/slav123/ews"
+	"github.com/slav123/ews/ewsutil"
 	"log"
 )
 
